@@ -1,0 +1,15 @@
+{
+    "name": "epnz/iconfont",
+    "description": "iconfont",
+    "license": "Apache-2.0",
+    "homepage": "https://www.epnz.com/",
+    "keywords": [
+        "iconfont"
+    ],
+    "authors": [
+        {
+            "name": "GXQ",
+            "email": "s@epnz.com"
+        }
+    ]
+}

@@ -1,8 +1,9 @@
-<!--
- * @Author: your name
- * @Date: 2021-01-08 03:15:57
- * @LastEditTime: 2021-01-08 03:15:57
- * @LastEditors: Please set LastEditors
- * @Description: In User Settings Edit
- * @FilePath: /iconfont/README.md
--->
+Iconfont
+
+--------
+
+向 [ICONFONT](https://www.iconfont.cn/) 借用的一些图标
+
+* 所有图标及代码都是从 Iconfont 上借用的，我们并没有版权
+* 如若有侵权，请你告诉我们，我们会立即做出调整
+* [使用方法](demo_index.html)
