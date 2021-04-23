@@ -6,6 +6,188 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "3090350",
+      "name": "慕课网",
+      "font_class": "mukewang",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "8033066",
+      "name": "网易公开课",
+      "font_class": "wangyigongkaike",
+      "unicode": "ea49",
+      "unicode_decimal": 59977
+    },
+    {
+      "icon_id": "9834540",
+      "name": "网易云课堂",
+      "font_class": "xingzhuang",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "12705394",
+      "name": "爱奇艺",
+      "font_class": "aiqiyi",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "12903485",
+      "name": "虎课网",
+      "font_class": "tubiaozhizuomoban",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "14761035",
+      "name": "小火山视频",
+      "font_class": "huoshan",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "14891217",
+      "name": "360",
+      "font_class": "icon-test",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "16462846",
+      "name": "西瓜视频",
+      "font_class": "xiguashipin",
+      "unicode": "e684",
+      "unicode_decimal": 59012
+    },
+    {
+      "icon_id": "16582801",
+      "name": "bilibili",
+      "font_class": "bilibili",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "19631964",
+      "name": "知乎",
+      "font_class": "zhihu",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "19683177",
+      "name": "简书",
+      "font_class": "jianshu",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "19686301",
+      "name": "csdn博客",
+      "font_class": "csdn",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "20112106",
+      "name": "抖音",
+      "font_class": "douyin",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "20671888",
+      "name": "百度",
+      "font_class": "baidu",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "20979145",
+      "name": "腾讯视频",
+      "font_class": "tengxunshipin",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "6360166",
+      "name": "支付平台-微信",
+      "font_class": "zhifupingtai-weixin",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "6822916",
+      "name": "wechat",
+      "font_class": "wechat1",
+      "unicode": "e6ed",
+      "unicode_decimal": 59117
+    },
+    {
+      "icon_id": "6822917",
+      "name": "qq",
+      "font_class": "qq2",
+      "unicode": "e6ee",
+      "unicode_decimal": 59118
+    },
+    {
+      "icon_id": "3060333",
+      "name": "凤凰网",
+      "font_class": "fenghuangwang",
+      "unicode": "e7b2",
+      "unicode_decimal": 59314
+    },
+    {
+      "icon_id": "4306398",
+      "name": "支付宝",
+      "font_class": "zhifubao",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "7827369",
+      "name": "大鱼号-nh",
+      "font_class": "dayuhao-nh",
+      "unicode": "e71e",
+      "unicode_decimal": 59166
+    },
+    {
+      "icon_id": "9385858",
+      "name": "百家号",
+      "font_class": "baijia",
+      "unicode": "e777",
+      "unicode_decimal": 59255
+    },
+    {
+      "icon_id": "9390390",
+      "name": "一点号",
+      "font_class": "yidian",
+      "unicode": "e77c",
+      "unicode_decimal": 59260
+    },
+    {
+      "icon_id": "15245578",
+      "name": "头条",
+      "font_class": "toutiao",
+      "unicode": "e788",
+      "unicode_decimal": 59272
+    },
+    {
+      "icon_id": "16383144",
+      "name": "网易",
+      "font_class": "mail-netease",
+      "unicode": "e7a7",
+      "unicode_decimal": 59303
+    },
+    {
+      "icon_id": "17442532",
+      "name": "搜狐号",
+      "font_class": "souhu",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
       "icon_id": "3876574",
       "name": "json",
       "font_class": "json",
@@ -91,7 +273,7 @@
     },
     {
       "icon_id": "4178735",
-      "name": "AK-SR支付宝",
+      "name": "AK-SR_支付宝",
       "font_class": "sr_zhifubao",
       "unicode": "e601",
       "unicode_decimal": 58881
