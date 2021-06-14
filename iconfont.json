@@ -6,6 +6,55 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "7735886",
+      "name": "bell-slash-o",
+      "font_class": "bell-slash-o",
+      "unicode": "e8ce",
+      "unicode_decimal": 59598
+    },
+    {
+      "icon_id": "7735889",
+      "name": "bell-o",
+      "font_class": "bell-o",
+      "unicode": "e8cf",
+      "unicode_decimal": 59599
+    },
+    {
+      "icon_id": "7736002",
+      "name": "dollar",
+      "font_class": "dollar",
+      "unicode": "e8e1",
+      "unicode_decimal": 59617
+    },
+    {
+      "icon_id": "7736020",
+      "name": "edit",
+      "font_class": "edit",
+      "unicode": "e8e4",
+      "unicode_decimal": 59620
+    },
+    {
+      "icon_id": "7736277",
+      "name": "paper-plane",
+      "font_class": "paper-plane",
+      "unicode": "e907",
+      "unicode_decimal": 59655
+    },
+    {
+      "icon_id": "7736287",
+      "name": "pencil",
+      "font_class": "pencil",
+      "unicode": "e908",
+      "unicode_decimal": 59656
+    },
+    {
+      "icon_id": "7736296",
+      "name": "print",
+      "font_class": "print",
+      "unicode": "e90b",
+      "unicode_decimal": 59659
+    },
+    {
       "icon_id": "3090350",
       "name": "慕课网",
       "font_class": "mukewang",
