@@ -6,6 +6,111 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "19915543",
+      "name": "cart",
+      "font_class": "cart",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "30417",
+      "name": "like_fill",
+      "font_class": "likefill",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "30418",
+      "name": "like",
+      "font_class": "like1",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "30438",
+      "name": "shop",
+      "font_class": "shop",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    },
+    {
+      "icon_id": "33516",
+      "name": "home",
+      "font_class": "home1",
+      "unicode": "e6b9",
+      "unicode_decimal": 59065
+    },
+    {
+      "icon_id": "158874",
+      "name": "people",
+      "font_class": "people",
+      "unicode": "e736",
+      "unicode_decimal": 59190
+    },
+    {
+      "icon_id": "7736130",
+      "name": "heart",
+      "font_class": "heart",
+      "unicode": "e8f4",
+      "unicode_decimal": 59636
+    },
+    {
+      "icon_id": "7736156",
+      "name": "gift",
+      "font_class": "gift",
+      "unicode": "e8f1",
+      "unicode_decimal": 59633
+    },
+    {
+      "icon_id": "7736175",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e8fa",
+      "unicode_decimal": 59642
+    },
+    {
+      "icon_id": "7736266",
+      "name": "pencil-square",
+      "font_class": "pencil-square",
+      "unicode": "e906",
+      "unicode_decimal": 59654
+    },
+    {
+      "icon_id": "7736355",
+      "name": "shopping-cart",
+      "font_class": "shopping-cart",
+      "unicode": "e914",
+      "unicode_decimal": 59668
+    },
+    {
+      "icon_id": "7736451",
+      "name": "trash-o",
+      "font_class": "trash-o",
+      "unicode": "e926",
+      "unicode_decimal": 59686
+    },
+    {
+      "icon_id": "7736477",
+      "name": "user",
+      "font_class": "user",
+      "unicode": "e92d",
+      "unicode_decimal": 59693
+    },
+    {
+      "icon_id": "23101207",
+      "name": "bum_logo",
+      "font_class": "bum_logo",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "9692266",
+      "name": "mubang",
+      "font_class": "mubang",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
       "icon_id": "7735886",
       "name": "bell-slash-o",
       "font_class": "bell-slash-o",
