@@ -6,6 +6,55 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "17204624",
+      "name": "top",
+      "font_class": "fanhuidingbu",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "19071911",
+      "name": "留言",
+      "font_class": "liuyan2",
+      "unicode": "e711",
+      "unicode_decimal": 59153
+    },
+    {
+      "icon_id": "3548558",
+      "name": "loginout",
+      "font_class": "loginout",
+      "unicode": "e6bd",
+      "unicode_decimal": 59069
+    },
+    {
+      "icon_id": "6002041",
+      "name": "账户中心",
+      "font_class": "zhanghuzhongxin",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "7162466",
+      "name": "login-out",
+      "font_class": "login-out",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "9884192",
+      "name": "账户中心",
+      "font_class": "zhanghuzhongxin1",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "23088271",
+      "name": "账户中心",
+      "font_class": "zhanghuzhongxin2",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
       "icon_id": "19915543",
       "name": "cart",
       "font_class": "cart",
