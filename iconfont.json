@@ -6,6 +6,174 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "886696",
+      "name": "点赞(1)",
+      "font_class": "dianzan1",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "886699",
+      "name": "点赞",
+      "font_class": "dianzan",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "7736007",
+      "name": "comment-o",
+      "font_class": "comment-o",
+      "unicode": "e8de",
+      "unicode_decimal": 59614
+    },
+    {
+      "icon_id": "7736023",
+      "name": "commenting-o",
+      "font_class": "commenting-o",
+      "unicode": "e8e3",
+      "unicode_decimal": 59619
+    },
+    {
+      "icon_id": "7736369",
+      "name": "sort-asc",
+      "font_class": "sort-asc",
+      "unicode": "e916",
+      "unicode_decimal": 59670
+    },
+    {
+      "icon_id": "7736370",
+      "name": "sort-down",
+      "font_class": "sort-down",
+      "unicode": "e917",
+      "unicode_decimal": 59671
+    },
+    {
+      "icon_id": "7736371",
+      "name": "sort",
+      "font_class": "sort",
+      "unicode": "e91a",
+      "unicode_decimal": 59674
+    },
+    {
+      "icon_id": "7239727",
+      "name": "environment",
+      "font_class": "environment",
+      "unicode": "e729",
+      "unicode_decimal": 59177
+    },
+    {
+      "icon_id": "7239818",
+      "name": "message",
+      "font_class": "message",
+      "unicode": "e73f",
+      "unicode_decimal": 59199
+    },
+    {
+      "icon_id": "7239831",
+      "name": "phone",
+      "font_class": "phone",
+      "unicode": "e742",
+      "unicode_decimal": 59202
+    },
+    {
+      "icon_id": "7239853",
+      "name": "qrcode",
+      "font_class": "qrcode",
+      "unicode": "e746",
+      "unicode_decimal": 59206
+    },
+    {
+      "icon_id": "141456",
+      "name": "add",
+      "font_class": "add",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "141540",
+      "name": "check2",
+      "font_class": "check",
+      "unicode": "e6c8",
+      "unicode_decimal": 59080
+    },
+    {
+      "icon_id": "141569",
+      "name": "clear",
+      "font_class": "clear",
+      "unicode": "e6df",
+      "unicode_decimal": 59103
+    },
+    {
+      "icon_id": "141591",
+      "name": "cross",
+      "font_class": "cross",
+      "unicode": "e6f5",
+      "unicode_decimal": 59125
+    },
+    {
+      "icon_id": "141631",
+      "name": "exit-to-app",
+      "font_class": "exittoapp",
+      "unicode": "e71b",
+      "unicode_decimal": 59163
+    },
+    {
+      "icon_id": "141763",
+      "name": "loader",
+      "font_class": "loader",
+      "unicode": "e79f",
+      "unicode_decimal": 59295
+    },
+    {
+      "icon_id": "141826",
+      "name": "minus",
+      "font_class": "minus",
+      "unicode": "e7de",
+      "unicode_decimal": 59358
+    },
+    {
+      "icon_id": "141927",
+      "name": "query-builder",
+      "font_class": "querybuilder",
+      "unicode": "e843",
+      "unicode_decimal": 59459
+    },
+    {
+      "icon_id": "141932",
+      "name": "plus",
+      "font_class": "plus",
+      "unicode": "e848",
+      "unicode_decimal": 59464
+    },
+    {
+      "icon_id": "141944",
+      "name": "remove",
+      "font_class": "remove",
+      "unicode": "e854",
+      "unicode_decimal": 59476
+    },
+    {
+      "icon_id": "4765896",
+      "name": "eye",
+      "font_class": "eye1",
+      "unicode": "e78f",
+      "unicode_decimal": 59279
+    },
+    {
+      "icon_id": "4766902",
+      "name": "cloud",
+      "font_class": "cloud",
+      "unicode": "e7d9",
+      "unicode_decimal": 59353
+    },
+    {
+      "icon_id": "8092167",
+      "name": "eye-close",
+      "font_class": "eye-close",
+      "unicode": "e901",
+      "unicode_decimal": 59649
+    },
+    {
       "icon_id": "8527314",
       "name": "作者",
       "font_class": "zuozhe",
@@ -62,13 +230,6 @@
       "unicode_decimal": 59153
     },
     {
-      "icon_id": "3548558",
-      "name": "loginout",
-      "font_class": "loginout",
-      "unicode": "e6bd",
-      "unicode_decimal": 59069
-    },
-    {
       "icon_id": "6002041",
       "name": "账户中心",
       "font_class": "zhanghuzhongxin",
@@ -76,25 +237,11 @@
       "unicode_decimal": 58905
     },
     {
-      "icon_id": "7162466",
-      "name": "login-out",
-      "font_class": "login-out",
-      "unicode": "e615",
-      "unicode_decimal": 58901
-    },
-    {
       "icon_id": "9884192",
       "name": "账户中心",
       "font_class": "zhanghuzhongxin1",
       "unicode": "e62f",
       "unicode_decimal": 58927
-    },
-    {
-      "icon_id": "23088271",
-      "name": "账户中心",
-      "font_class": "zhanghuzhongxin2",
-      "unicode": "e63d",
-      "unicode_decimal": 58941
     },
     {
       "icon_id": "19915543",
@@ -139,20 +286,6 @@
       "unicode_decimal": 59190
     },
     {
-      "icon_id": "7736130",
-      "name": "heart",
-      "font_class": "heart",
-      "unicode": "e8f4",
-      "unicode_decimal": 59636
-    },
-    {
-      "icon_id": "7736156",
-      "name": "gift",
-      "font_class": "gift",
-      "unicode": "e8f1",
-      "unicode_decimal": 59633
-    },
-    {
       "icon_id": "7736175",
       "name": "home",
       "font_class": "home",
@@ -190,7 +323,7 @@
     {
       "icon_id": "23101207",
       "name": "bum_logo",
-      "font_class": "bum_logo",
+      "font_class": "bum",
       "unicode": "e613",
       "unicode_decimal": 58899
     },
@@ -610,7 +743,7 @@
     {
       "icon_id": "7239610",
       "name": "aliyun",
-      "font_class": "aliyun2",
+      "font_class": "aliyun",
       "unicode": "e715",
       "unicode_decimal": 59157
     },
@@ -652,14 +785,14 @@
     {
       "icon_id": "7656253",
       "name": "logo-html5",
-      "font_class": "logo-html",
+      "font_class": "html5",
       "unicode": "e796",
       "unicode_decimal": 59286
     },
     {
       "icon_id": "7656284",
       "name": "logo-windows",
-      "font_class": "logo-windows",
+      "font_class": "windows",
       "unicode": "e7a9",
       "unicode_decimal": 59305
     },
